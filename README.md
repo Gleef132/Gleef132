@@ -35,6 +35,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <!--
 **Gleef132/Gleef132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
