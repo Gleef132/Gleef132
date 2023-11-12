@@ -28,6 +28,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
+
+<div align="left">
+  <a href="https://t.me/Janybek_Frontend_Developer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="40" alt="telegram logo"  />
+  </a>
+  <a href="mailto:zhanybek.asanakunov@bk.ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 <!--
 **Gleef132/Gleef132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
