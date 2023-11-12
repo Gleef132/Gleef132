@@ -15,7 +15,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </div>
-### Имел опыт
+###
+### Имел опыт работать с 
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -26,6 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
+###
 <!--
 **Gleef132/Gleef132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
