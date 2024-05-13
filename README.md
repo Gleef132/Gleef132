@@ -1,4 +1,4 @@
-### Привет 👋, я Асанакунов Жаныбек
+### Привет 👋, я Жаныбек
 
 <div align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="500"/></a>
