@@ -137,6 +137,12 @@
       </a>
       <br>Redux
     </td>
+<td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
   </tr> 
     <tr>
     <td align="center" width="110" height="90"> 
@@ -156,12 +162,6 @@
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
     </td>
   </tr> 
 </table>
