@@ -130,6 +130,12 @@
       </a>
       <br>Redux
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#gleef-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="36" height="36" alt="Redux" />
+      </a>
+      <br>MobX
+    </td>
 <td align="center" width="110" height="90">
       <a href="#gleef-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
@@ -140,7 +146,7 @@
     <tr>
     <td align="center" width="110" height="90"> 
       <a href="#gleef-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+        <img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
