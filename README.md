@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#gleef-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
     </td>
@@ -70,7 +70,7 @@
   <tr>
      <td align="center" width="110" height="90"> 
       <a href="#gleef-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
@@ -79,6 +79,12 @@
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
       </a>
       <br>rt library
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#gleef-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>Storybook
     </td>
   </tr> 
 </table>
@@ -89,19 +95,19 @@
   <tr>
      <td align="center" width="110" height="90">
       <a href="#gleef-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
       <a href="#gleef-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
     </td>
         <td align="center" width="110" height="90">
       <a href="#gleef-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
+        <img src="https://cdn.worldvectorlogo.com/logos/stylelint.svg" width="36" height="36" alt="stylelint" />
       </a>
       <br>stylelint
     </td>
@@ -142,6 +148,20 @@
       </a>
       <br>Tailwind
     </td>
+  </tr>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#gleef-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="React" />
+      </a>
+      <br>Vue
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#gleef-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/pinia-1.svg" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Pinia
+    </td>
   </tr> 
     <tr>
     <td align="center" width="110" height="90"> 
@@ -158,7 +178,7 @@
     </td> 
     <td align="center" width="110" height="90">
       <a href="#gleef-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
@@ -171,7 +191,7 @@
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#gleef-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
